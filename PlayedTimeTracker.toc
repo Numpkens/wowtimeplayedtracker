@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: Played Time Tracker
+## Notes: Tracks the time you spend playing WoW.
+## Author: Numpy
+## Version: 1.0.0
+## SavedVariables: PlayedTimeTrackerDB
+
+PlayedTimeTracker.lua
