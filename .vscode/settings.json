@@ -12,6 +12,9 @@
         "utf8": "disable"
     },
     "Lua.workspace.library": [
-        "/home/david/.var/app/com.visualstudio.code/data/vscode/extensions/ketho.wow-api-0.18.2/Annotations"
+        "~/.vscode/extensions/ketho.wow-api-0.18.2/Annotations"
+    ],
+    "Lua.diagnostics.globals": [
+        "TIME_PLAYED_MSG"
     ]
 }
